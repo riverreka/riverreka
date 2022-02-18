@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [riverreka.com](riverreka.com)
+- 👨‍💻 All of my projects are available at [rekavida.com](rekavida.com)
 
 - 📫 How to reach me **reka.vida@gmail.com**
 
