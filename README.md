@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [rekavida.com](https://www.rekavida.com)
 
-- 📫 How to reach me **reka.vida@gmail.com**
+- 📫 How to reach me **rekavida.dev@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/reka-vida](https://www.linkedin.com/in/reka-vida-74846734/)
 
